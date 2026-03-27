@@ -115,7 +115,7 @@ Build-On1/
 
 **Wisdom Alfred**
 - 📧 Email: [wisdomalfred964@gmail.com](mailto:wisdomalfred964@gmail.com)
-- 🌐 Portfolio: [wisdomalfred.vercel.app](https://wisdomalfred.vercel.app)
+- 🌐 Portfolio: [alfredwisdom.vercel.app](https://alfredwisdom.vercel.app)
 
 ---
 

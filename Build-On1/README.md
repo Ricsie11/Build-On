@@ -6,7 +6,7 @@
 
 ## ⚠️ COPYRIGHT NOTICE
 
-> **ALL RIGHTS RESERVED — © 2025 Build-On (Wisdom Alfred)**
+> **ALL RIGHTS RESERVED — © 2026 Build-On (Wisdom Alfred)**
 >
 > This project and all of its contents — including but not limited to the source code, UI design, curriculum content, quiz questions, written materials, and visual assets — are the **exclusive intellectual property** of **Wisdom Alfred / Build-On**.
 >

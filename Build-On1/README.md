@@ -119,4 +119,4 @@ Build-On1/
 
 ---
 
-*Built with ❤️ by Wisdom Alfred — Build-On © 2025. All rights reserved.*
+*Built with ❤️ by Wisdom Alfred — Build-On © 2026. All rights reserved.*
